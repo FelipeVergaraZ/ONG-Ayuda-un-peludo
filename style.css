@@ -1,0 +1,138 @@
+#unico {
+    text-align: center;
+    left: 500px;
+}
+
+.p1 {
+    position: absolute;
+    left: 200px;
+    width: 80%;
+}
+
+#unico2 {
+    text-align: center;
+    left: 580px;
+}
+
+.p2 {
+    position: relative;
+    left: 200px;
+}
+
+.pa1 {
+    position: absolute;
+    left: 500px;
+    top: 245px;
+}
+
+.pa2 {
+    position: absolute;
+    left: 500px;
+    top: 265px;
+}
+
+.pa3 {
+    position: absolute;
+    left: 500px;
+    top: 285px;
+}
+
+.pa4 {
+    position: absolute;
+    left: 500px;
+    top: 305px;
+}
+
+#unico3 {
+    text-align: center;
+    left: 540px;
+}
+
+.pr {
+    position: absolute;
+    top: 500px;
+    left: 500px;
+}
+
+.pr2 {
+    position: absolute;
+    left: 500px;
+    top: 750px;
+}
+
+.li {
+    position: relative;
+    top: 150px;
+    left: 750px;
+}
+
+.li2 {
+    position: relative;
+    top: 280px;
+    left: 750px;
+}
+
+.ini {
+    text-align: right;
+}
+
+#t1 {
+    text-align: center;
+    left: 540px;
+    top: 100px;
+}
+
+#t2 {
+    text-align: center;
+    left: 540px;
+}
+
+.pga1 {
+    position: absolute;
+    left: 200px;
+    top: 120px;
+    width: 80%;
+}
+
+.igm {
+    position: absolute;
+    top: 300px;
+    left: 500px;
+}
+
+.ign {
+    position: absolute;
+    top: 400px;
+    left: 750px;
+}
+
+.igm2 {
+    position: absolute;
+    top: 550px;
+    left: 500px;
+}
+
+.ign2 {
+    position: absolute;
+    top: 650px;
+    left: 750px;
+}
+
+.igm3 {
+    position: absolute;
+    top: 800px;
+    left: 500px;
+}
+
+.ign3 {
+    position: absolute;
+    top: 900px;
+    left: 750px;
+}
+
+.perf {
+    position: absolute;
+    top: 500px;
+    left: 750px;
+    font-size: 200%;
+}
